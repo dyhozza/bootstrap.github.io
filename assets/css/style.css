@@ -1,0 +1,31 @@
+/*********** SECCION DE BARRA DE NAVEGACION */
+.barra_nav{
+    background-color: #28a745;
+}
+.color-opt-nav{
+    color: #a0f0b3;
+}
+
+/*********** SECCION DE TARJETAS ************/
+.text_dos {/*texto descriptivo de la card*/
+    font-size: 12px;
+    color: #212529;
+}
+.precio {
+    font-size: 10px; 
+    text-align: right;
+}
+.oferta{
+    font-size: 14px;
+    color: #28a745;
+}
+
+/*********** SECCION DE FORMULARIO ************/
+form{ /* la caja mas grande del formulario*/
+    background-color: #28a745;
+    justify-content: center;
+    text-align: center;
+}
+.boton_enviar { /* propiedades para el boton*/
+    background-color: #efefef;
+}
